@@ -16,6 +16,7 @@
 
 - 🇻🇳 **npm install windows-build-tools**
 - 🇻🇳 **npm install** - đợi khoảng 3-5p tùy theo tốc độ mạng
+
 - 🇻🇳 **npm audit fix**
 - 🇻🇳 **npm start** - đợi khoảng 3-5p tùy theo tốc độ mạng
 - 🇻🇳 **Lưu Ý: Khi cài đặt xong phải tắt đi và khởi động lại để tránh gặp lỗi không mong muốn.**
@@ -39,6 +40,7 @@
 
 - 🇻🇳 Chuyển qua tab **console** và gõ các lệnh theo thứ tự sau:
 - 🇻🇳 **npm install** - đợi khoảng 3-5p tùy theo tốc độ mạng
+- 🇻🇳 **npm i lawerpr0ject-api**
 - 🇻🇳 **npm audit fix**
 - 🇻🇳 **Ấn nút run trên màn hình** - đợi khoảng 3-5p tùy theo tốc độ mạng
 - 🇻🇳 **Lưu Ý: Khi cài đặt xong phải tắt đi và khởi động lại để tránh gặp lỗi không mong muốn.**
